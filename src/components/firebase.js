@@ -24,13 +24,13 @@ import {
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAotwu7JrBoseDE93Evgi9OpzvCia7Fj2A",
-  authDomain: "linkedin-clone-gh.firebaseapp.com",
-  projectId: "linkedin-clone-gh",
-  storageBucket: "linkedin-clone-gh.appspot.com",
-  messagingSenderId: "609347092127",
-  appId: "1:609347092127:web:06f9c8171772b6ed632caa",
-  measurementId: "G-XJ5DR7B7M9"
+  apiKey: "AIzaSyBpuXMorotbstMgkNmg4fNze5296_Leaeg",
+  authDomain: "li-clone-build.firebaseapp.com",
+  projectId: "li-clone-build",
+  storageBucket: "li-clone-build.appspot.com",
+  messagingSenderId: "588938970348",
+  appId: "1:588938970348:web:bece2b8c57c8122c9c51c9",
+  measurementId: "G-EYNJWPGWJ0"
 };
 
 // init firebase app
